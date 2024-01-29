@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a99bbbd-6cc8-4924-9028-c4b27b949544" name="Changes" comment="failed test added.">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/keyin/SuggestionEngineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/keyin/SuggestionEngineTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5a99bbbd-6cc8-4924-9028-c4b27b949544" name="Changes" comment="failed test added again" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706496393505</updated>
-      <workItem from="1706496394813" duration="552000" />
+      <workItem from="1706496394813" duration="627000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit.">
       <option name="closed" value="true" />
@@ -115,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706496885508</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="failed test added again">
+      <option name="closed" value="true" />
+      <created>1706496961073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706496961073</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +141,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit." />
     <MESSAGE value="failed test added." />
-    <option name="LAST_COMMIT_MESSAGE" value="failed test added." />
+    <MESSAGE value="failed test added again" />
+    <option name="LAST_COMMIT_MESSAGE" value="failed test added again" />
   </component>
 </project>
