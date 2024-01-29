@@ -3,7 +3,7 @@ package com.keyin;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SuggestionDatabase {
+public class SuggestionsDatabase {
     private Map<String,Integer> wordMap;
 
     public Map<String, Integer> getWordMap() {
